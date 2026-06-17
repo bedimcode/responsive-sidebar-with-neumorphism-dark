@@ -1,0 +1,17 @@
+========== SIDEBAR ==========
+✅.sidebar__name
+Giova Flherx
+
+✅.sidebar__status
+Administrator
+
+✅.sidebar__label
+Home
+Users
+Templates
+Invoices
+Projects
+Notifications
+Billing
+Settings
+Log Out
